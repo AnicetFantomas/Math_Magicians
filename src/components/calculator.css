@@ -22,12 +22,13 @@ section {
 }
 
 .display {
-  background-color: rgb(182 182 182);
+  background-color: rgb(80, 80, 80);
   height: 100px;
   width: 100%;
   text-align: right;
+  color: #fff;
   padding: 20px;
-  font-size: 30px;
+  font-size: 40px;
   position: relative;
 }
 
@@ -46,6 +47,10 @@ section {
   justify-content: center;
   font-size: 30px;
   cursor: pointer;
+}
+
+.side-col {
+  background-color: orange;
 }
 
 .button:hover {
