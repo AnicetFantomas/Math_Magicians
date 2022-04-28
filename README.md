@@ -4,8 +4,9 @@
 - Make simple calculations.
 - Read a random math-related quote.
 
+## How it looks like :
 
-
+![calculator](https://user-images.githubusercontent.com/94958024/165790320-e2df5aa3-8f63-46cc-bb60-3ae5f75e1c3f.png)
 
 ## Built With
 
