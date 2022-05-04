@@ -6,11 +6,19 @@
 
 section {
   background-color: rgb(18 26 31);
+  background-image: url('https://www.skybounddigital.com/wp-content/uploads/2015/01/skills-background1.jpg');
   min-height: 100vh;
   width: 100%;
   display: flex;
   align-items: center;
-  justify-content: center;
+}
+
+.side-intro {
+  margin-bottom: 35%;
+  margin-left: 2%;
+  color: #fff;
+  font-size: 30px;
+  font-weight: 700;
 }
 
 .container {
@@ -18,7 +26,9 @@ section {
   min-width: 400px;
   background-color: rgb(39 55 59);
   border-radius: 8px;
+  margin-left: 30%;
   overflow: hidden;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .display {

@@ -4,9 +4,15 @@
 - Make simple calculations.
 - Read a random math-related quote.
 
-## How it looks like :
+## How it looks like 
+### Home page
+![screencapture-localhost-3000-2022-05-04-17_46_26](https://user-images.githubusercontent.com/94958024/166722963-e178ad44-52a7-4679-929b-690b6745d831.png)
 
-![calculator](https://user-images.githubusercontent.com/94958024/165790320-e2df5aa3-8f63-46cc-bb60-3ae5f75e1c3f.png)
+### Calculator
+![screencapture-localhost-3000-Calculator-2022-05-04-17_48_50](https://user-images.githubusercontent.com/94958024/166723975-fc488a7f-95ef-43cf-90e6-ffbec1a21e09.png)
+
+### Quote
+![screencapture-localhost-3000-Quotes-2022-05-04-17_49_26](https://user-images.githubusercontent.com/94958024/166724132-48b76d5d-a917-4c3a-af21-8f50f614acba.png)
 
 ## Built With
 
