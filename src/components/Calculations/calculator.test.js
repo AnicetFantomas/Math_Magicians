@@ -1,13 +1,15 @@
-import { render } from "@testing-library/react";
-import renderer from "react-test-renderer"
-import calculator from './calculator'
+import { render } from '@testing-library/react';
+import '@testing-library/jest-dom';
+import { BrowserRouter as Router } from 'react-router-dom';
+import Calculator from './Calculator';
 
 describe('Calculator page of App', () => {
-    test('Build tje snapshot of the calculator component safely', () => {
-        const rend = renderer.create(<calculator />);
-        expect(rend.toJSON()).toMatchSnapshot();
-    });
-    test('Render Calculator component', () => {
-        render(<calculator />)
-    });
+  test('Build the snapshot of the Calculator component safely', () => {
+    const calc = render(
+      <Router>
+        <Calculator />
+      </Router>,
+    );
+    expect(calc).toMatchSnapshot();
+  });
 });
