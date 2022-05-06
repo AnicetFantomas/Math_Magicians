@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Calculator page of App Build tje snapshot of the calculator component safely 1`] = `<calculator />`;
