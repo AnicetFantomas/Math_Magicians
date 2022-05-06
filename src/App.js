@@ -3,7 +3,7 @@ import { Route, Routes } from 'react-router-dom';
 import Calculator from './components/Calculations/Calculator';
 import Home from './components/Home/Home';
 import Quotes from './components/Quotes/Quotes';
-
+/* eslint-disable import/prefer-default-export */
 const App = () => (
   <>
     <Routes>
