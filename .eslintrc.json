@@ -22,8 +22,6 @@
   },
   "ignorePatterns": [
     "dist/",
-    "build/",
-    "App.js",
-    "./components/Calculations/Calculator"
+    "build/"
   ]
 }
