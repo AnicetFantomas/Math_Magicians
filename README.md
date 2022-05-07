@@ -21,7 +21,7 @@
 
 ## Live Demo is avaible here
 
-[Live Demo Link](https://github.com/AnicetFantomas/Math_Magicians.git)
+[Live Demo Link](https://mathmagician9.herokuapp.com/)
 
 
 ## Getting Started
@@ -34,6 +34,7 @@ git clone
 https://github.com/AnicetFantomas/Math_Magicians.git
 
 ```
+
 ### To run this project locacally
 ```
   - mpm install
